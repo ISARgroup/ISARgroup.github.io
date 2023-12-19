@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tags
-permalink: /tags/
+title: Research
+permalink: /research/
 ---
 
 {% for tag in site.tags %}{% assign tagname = tag[0] %}[#{{ tagname }}](#{{ tagname }}) {% endfor %}
