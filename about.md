@@ -25,31 +25,3 @@ It can be hosted on GitHub Pages/IPFS.
 
 ### Alumni:
 
-[![image](https://github.com/kotet/ultralight/assets/8435623/037a8982-66cc-46ae-9926-ccca7471f3f4)](https://pagespeed.web.dev/analysis/https-kotet-jp-ultralight/xvkytq8rwg?hl=en&form_factor=mobile)
-
-## Usage
-
-### GitHub Pages
-
-```console
-$ git clone https://github.com/kotet/ultralight.git && cd ultralight
-$ git remote set-url origin https://github.com/yourname/yourname.github.io.git
-$ git push origin master
-```
-
-### IPFS
-
-```console
-$ git clone https://github.com/kotet/ultralight.git && cd ultralight
-$ bundle && bundle exec jekyll build
-$ ipfs add -r _site/
-```
-
-#### Internal link
-
-On IPFS, all internal links must be relative links.
-You can use `relative` template like this:
-
-```
-{% raw %}[link]({% include relative %}{% post_url your-article-filename %}){% endraw %}
-```
