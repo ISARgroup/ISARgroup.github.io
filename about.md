@@ -8,21 +8,21 @@ permalink: /members/
 
 Ultralight is super-lightweight responsive super Jekyll theme.
 
+<br>
 
 ### Researchers:
 
 - [XX](https://github.com/jekyll/minima/tree/2863624b903b17f838d6ce8d2f77900fa9d3c864): 388K
 - **[ultralight@e7a7bce](https://github.com/kotet/ultralight/tree/e7a7bce911eed44bf4d1d1818b118cee67a3f538): 56K**
 
-### External Researchers:
+<br>
+
+### Students:
 
 - [XX](https://github.com/jekyll/minima/tree/2863624b903b17f838d6ce8d2f77900fa9d3c864): 388K
 - **[ultralight@e7a7bce](https://github.com/kotet/ultralight/tree/e7a7bce911eed44bf4d1d1818b118cee67a3f538): 56K**
 
-### Undergraduate Students:
+<br>
 
-- [XX](https://github.com/jekyll/minima/tree/2863624b903b17f838d6ce8d2f77900fa9d3c864): 388K
-- **[ultralight@e7a7bce](https://github.com/kotet/ultralight/tree/e7a7bce911eed44bf4d1d1818b118cee67a3f538): 56K**
-
-### Alumni:
+### Past Members:
 
