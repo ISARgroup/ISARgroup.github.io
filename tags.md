@@ -13,9 +13,8 @@ permalink: /research/
 
 ### Audio Processing:
 
+- Audio Analysis
 - Autonomous Auditory Perception
-- **[ultralight@e7a7bce](https://github.com/kotet/ultralight/tree/e7a7bce911eed44bf4d1d1818b118cee67a3f538): 56K**
-
 
 ### Time Series Processing:
 
@@ -25,4 +24,4 @@ permalink: /research/
 ### Multimedia Processing:
 
 - Multimodal Information Fusion
-- **[ultralight@e7a7bce](https://github.com/kotet/ultralight/tree/e7a7bce911eed44bf4d1d1818b118cee67a3f538): 56K**
+- Cross-Modality Information Transfer
