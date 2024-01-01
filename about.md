@@ -30,6 +30,7 @@ permalink: /members/
 
 ### Past Members:
 
-- 
+- Zheng Gu
+- Zhen Lv
 
 <br>
