@@ -8,8 +8,16 @@ permalink: /members/
 
 ### Researchers:
 
-- 
-- 
+- Xinzhou Xu (Assoc. Prof.)
+- Yongfa Chen
+- Zhipeng Yin
+- Meng Tang
+- Fan Shen
+- Jiaxin Wu (Guest, SEU)
+- Ziqian Li (Guest, HFUT)
+- Zirui Ge (Guest, NJUPT)
+- Yuanyuan Zhou (Guest, NJUPT)
+- Le Ma (Guest, HFUT)
 
 <br>
 
