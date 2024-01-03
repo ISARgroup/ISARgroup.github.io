@@ -23,7 +23,14 @@ permalink: /members/
 
 ### Students:
 
-- 
+- Yule Chen
+- Jiayi Qian
+- Jingwen Qiu
+- Min Yan
+- Shengnan Yang
+- Liqiang Zhang
+- Yifan Zhang
+- Zifan Zhang
 
 
 <br>
