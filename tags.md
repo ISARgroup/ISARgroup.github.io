@@ -20,7 +20,7 @@ permalink: /research/
 
 ### Time Series Processing:
 
-- Mechanical Signal Processing
+- Control Signal Processing in Mechanisms
 - Communication Signal Processing
 
 ### Multimedia Processing:
