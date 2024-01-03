@@ -7,14 +7,16 @@ permalink: /research/
 ### Spoken Signal Processing:
 
 - Computational Paralinguistics
-- Affective Computing for Speech
+- Affective Computing in Spoken Signal
+- Affective Auditory Description
 - Speech-Based Mental Health
 - Digital Healthcare for Speech
 
 ### Audio Processing:
 
-- Audio Analysis
+- Acoustic Signal Analysis
 - Autonomous Auditory Perception
+
 
 ### Time Series Processing:
 
