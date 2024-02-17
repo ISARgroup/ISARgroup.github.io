@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+<br>
+
 ### Spoken Signal Processing:
 
 - Computational Paralinguistics
@@ -12,16 +14,21 @@ permalink: /research/
 - Speech-Based Mental Health
 - Digital Healthcare for Speech
 
+<br>
+
 ### Audio Processing:
 
 - Acoustic Signal Analysis
 - Autonomous Auditory Perception
 
+<br>
 
 ### Time Series Processing:
 
 - Control Signal Processing in Mechanisms
 - Communication Signal Processing
+
+<br>
 
 ### Multimedia Processing:
 
