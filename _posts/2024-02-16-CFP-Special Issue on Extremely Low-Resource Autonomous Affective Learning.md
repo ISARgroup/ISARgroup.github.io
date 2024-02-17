@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "CFP-Special Issue on Extremely Low-Resource Autonomous Affective Learning"
+---
+
 CALL FOR PAPERS
 IEEE Transactions on Affective Computing
 
