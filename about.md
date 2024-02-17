@@ -25,7 +25,6 @@ permalink: /members/
 
 - Yule Chen
 - Jiayi Qian
-- Jingwen Qiu
 - Min Yan
 - Shengnan Yang
 - Liqiang Zhang
