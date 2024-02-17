@@ -9,7 +9,8 @@ title:  "CFP-Special Issue on Extremely Low-Resource Autonomous Affective Learni
 ### Special Issue on “Extremely Low-Resource Autonomous Affective Learning”
 
  
-### Deadlines:
+Deadlines:
+
 - Open for submissions: January 1, 2024
 - Submissions due: May 1, 2024
 - Preliminary notification: July	1, 2024
@@ -37,7 +38,7 @@ Topics of interest include:
 - Other affective computing topics using extremely low-resource learning
 
  
-### SUBMISSION GUIDELINES
+### SUBMISSION GUIDELINES:
 
 Please submit papers through the ScholarOne system (https://mc.manuscriptcentral.com/taffc-cs) and be sure to select the special issue or special section name. Manuscripts should not be published or currently submitted for publication elsewhere. Please submit only full papers intended for review, not abstracts, to the ScholarOne portal. If requested, abstracts should be sent by email to the guest editors directly.
 
