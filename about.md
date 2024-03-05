@@ -24,9 +24,7 @@ permalink: /members/
 ### Students:
 
 - Yule Chen
-- Jiayi Qian
 - Min Yan
-- Shengnan Yang
 - Liqiang Zhang
 - Yifan Zhang
 - Zifan Zhang
