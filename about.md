@@ -13,6 +13,7 @@ permalink: /members/
 - Zhipeng Yin
 - Meng Tang
 - Fan Shen
+- Min Yao
 - Jiaxin Wu (Guest, SEU)
 - Ziqian Li (Guest, HFUT)
 - Zirui Ge (Guest, NJUPT)
@@ -27,7 +28,6 @@ permalink: /members/
 - Min Yan
 - Liqiang Zhang
 - Yifan Zhang
-- Zifan Zhang
 
 
 <br>
