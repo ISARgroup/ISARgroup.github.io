@@ -8,7 +8,7 @@ permalink: /members/
 
 ### Researchers:
 
-- Xinzhou Xu (Assoc. Prof.)
+- Xinzhou Xu[https://dblp.org/pid/173/6448.html] (Assoc. Prof.)
 - Yongfa Chen
 - Zhipeng Yin
 - Meng Tang
