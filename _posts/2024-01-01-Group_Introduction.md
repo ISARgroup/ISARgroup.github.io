@@ -3,7 +3,6 @@ layout: post
 title:  "Group Introduction"
 ---
 
-### Group Introduction
 
 <br>
 
