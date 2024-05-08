@@ -15,7 +15,7 @@ title:  "CFP-Special Issue on Extremely Low-Resource Autonomous Affective Learni
 Deadlines:
 
 - Open for submissions: January 1, 2024
-- Submissions due: May 1, 2024
+- Submissions due: May 1, 2024 (extended to May 20)
 - Preliminary notification: July	1, 2024
 - Revisions due: August 1, 2024       
 - Final notification: October 1, 2024	 
