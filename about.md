@@ -19,6 +19,7 @@ permalink: /members/
 - Zirui Ge (Guest, NJUPT)
 - Yuanyuan Zhou (Guest, NJUPT)
 - Le Ma (Guest, HFUT)
+- Yandi Zheng (Guest, TNU)
 
 <br>
 
