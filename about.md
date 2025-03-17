@@ -8,7 +8,7 @@ permalink: /members/
 
 ### Researchers:
 
-- Xinzhou Xu (Assoc. Prof., now visiting @SPSC, TU Graz, [DBLP](https://dblp.org/pid/173/6448.html), [IEEE](https://ieeexplore.ieee.org/author/37085853653))
+- Xinzhou Xu (Assoc. Prof., now visiting @[SPSC, TU Graz]([https://dblp.org/pid/173/6448.html](https://www.spsc.tugraz.at/people/xinzhou-xu.html)), [DBLP](https://dblp.org/pid/173/6448.html), [IEEE](https://ieeexplore.ieee.org/author/37085853653))
 - Yongfa Chen
 - Zhipeng Yin
 - Meng Tang
