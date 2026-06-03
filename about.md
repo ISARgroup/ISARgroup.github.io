@@ -8,7 +8,7 @@ permalink: /members/
 
 ### Researchers:
 
-- Xinzhou Xu (Assoc. Prof., [DBLP](https://dblp.org/pid/173/6448.html), [IEEE](https://ieeexplore.ieee.org/author/37085853653), [SPSC, TU Graz](https://www.spsc.tugraz.at/people/xinzhou-xu.html))
+- [Xinzhou Xu](https://isargroup.github.io/xinzhouxu/) (Assoc. Prof., NJUPT)
 - Meng Tang
 - Fan Shen
 - Min Yao
