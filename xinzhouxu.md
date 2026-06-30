@@ -19,4 +19,14 @@ Publications:
 [DBLP](https://dblp.org/pid/173/6448.html), [IEEE](https://ieeexplore.ieee.org/author/37085853653)
 
 <br>
+
+Contact: 
+xinzhou.xu@njupt.edu.cn (CC: xinzhou.xu@tum.de)
+
+<br>
+
+Address: Room 1113, Internet-of-Things Square, Nanjing University of Posts and Telecommunications, 
+Xinmofan Road 66, 210003 Nanjing, P. R. China
+
+<br>
 <br>
