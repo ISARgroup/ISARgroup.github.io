@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Slides for INTERSPEECH 2026 Paper"
+---
+
 ### Slides for INTERSPEECH 2026 Paper
 ### Label Correction Enhanced Dual-Stream Multiple Instance Learning for Weakly-Supervised Depression Detection in Speech
 
