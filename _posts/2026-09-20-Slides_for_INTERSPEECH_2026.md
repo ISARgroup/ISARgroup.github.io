@@ -13,7 +13,7 @@ Sun Y, Zhou Y, Xu X, Qi J, Xu F, Ren Z, Schuller B. Label Correction Enhanced Du
 
 <br>
 
-The slides can be downloaded via: [GitHub Link](https://github.com/ISARgroup/ISARgroup.github.io/blob/master/Wed_1716_C2.5.pdf)
+The slides can be downloaded via: [GitHub Link](https://github.com/ISARgroup/ISARgroup.github.io/blob/master/Wed_1716_C2.5_Xinzhou%20Xu_v1.pdf)
 
 <br>
 
