@@ -21,8 +21,11 @@ The slides can be downloaded via: [GitHub Link](https://github.com/ISARgroup/ISA
 Correction (see the paper): 
 
 1) Page 2 (Left): "we flip the origin label to obtain" to "we flip the original label to obtain";
+
 2) Page 3 (Left): "$\tilde{\mathbf{q}}^{(c)}=\operatorname{tanh}(\mathbf{W}_q \tilde{\mathbf{q}}^{(c)}+\mathbf{b}_q)$" to "$\tilde{\mathbf{q}}^{(c)}=\operatorname{tanh}(\mathbf{W}_q \tilde{\mathbf{a}}^{(c)}+\mathbf{b}_q)$";
+
 3) Page 3 (Left, Equation (9)): "p({\bf s}) = \mu p^{(M)}(\mathbf{s}) + (1-\mu)p^{(A)}(\mathbf{s})," to "p({\bf s}) = \operatorname{softmax}\left(\mu p^{(M)}(\mathbf{s}) + (1-\mu)p^{(A)}(\mathbf{s})\right),";
+
 4) Page 4 (Left, the end of Section 3.2): Adding "Note that all the comparisons and ablation results for the proposed LC-DMIL are chosen corresponding to the best UARs within the epochs in training the MIL-based depression detection module.".
 
 
