@@ -31,9 +31,9 @@ permalink: /members/
 
 ### Past Members:
 
-- Dr. Zirui Ge (Guest, NJUPT)
-- Meng Tang
-- Fan Shen
+- Dr. Zirui Ge (Guest, NJUPT) (2023-2026)
+- Meng Tang (2023-2026)
+- Fan Shen (2023-2026)
 - Yuanyuan Zhou (Guest, NJUPT) (2022-2025)
 - Zhipeng Yin (2022-2025)
 - Ziqian Li (Guest, HFUT)  (2021-2024)
