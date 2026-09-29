@@ -9,11 +9,8 @@ permalink: /members/
 ### Researchers:
 
 - [Xinzhou Xu](https://isargroup.github.io/xinzhouxu/) (Assoc. Prof., NJUPT)
-- Meng Tang
-- Fan Shen
 - Min Yao
 - Jiaxin Wu (Guest, SEU)
-- Zirui Ge (Guest, NJUPT)
 - Le Ma (Guest, HFUT)
 - Yandi Zheng (Guest, TNU)
 - Han Xu
@@ -34,6 +31,9 @@ permalink: /members/
 
 ### Past Members:
 
+- Dr. Zirui Ge (Guest, NJUPT)
+- Meng Tang
+- Fan Shen
 - Yuanyuan Zhou (Guest, NJUPT) (2022-2025)
 - Zhipeng Yin (2022-2025)
 - Ziqian Li (Guest, HFUT)  (2021-2024)
