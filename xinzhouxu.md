@@ -23,8 +23,11 @@ Publications:
 <br>
 
 Editorial: 
+
 Associate Editor, [IEEE Transactions on Affective Computing](https://www.computer.org/csdl/journal/ta)
+
 Associate Editor, [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)
+
 Guest Editor (2024-2025), [IEEE Transactions on Affective Computing](https://www.computer.org/csdl/journal/ta)
 
 <br>
