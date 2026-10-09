@@ -33,11 +33,11 @@ Guest Editor (2024-2025), [IEEE Transactions on Affective Computing](https://www
 <br>
 
 Contact: 
-xinzhou.xu@njupt.edu.cn (CC: xinzhou.xu@tum.de)
+xinzhou.xu@njupt.edu.cn
 
 <br>
 
-Address: Room 1113, Internet-of-Things Square, Nanjing University of Posts and Telecommunications, 
+Address: Room 1113, [Internet-of-Things Square](https://j.map.baidu.com/b3/HdFM), Nanjing University of Posts and Telecommunications, 
 Xinmofan Road 66, 210003 Nanjing, P. R. China
 
 <br>
